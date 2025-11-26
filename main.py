@@ -39,6 +39,7 @@ class AvailableYears(int, Enum):
     y2021 = 2021
     y2022 = 2022
     y2023 = 2023
+    y2024 = 2024
 
 # ─── Application FastAPI ────────────────────────────────────────────────────
 app = FastAPI(
