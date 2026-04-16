@@ -12,7 +12,7 @@ sudo apt install apache2 libapache2-mod-proxy-uwsgi python3 python3-pip python3.
 Clone the **API-OSO** repository and build the production setup:
 ```bash
 cd ~
-git clone https://github.com/louis-heraut/API-OSO.git
+git clone https://github.com/lou-heraut/API-OSO.git
 mv ./API-OSO/Makefile ./
 make API-OSO_prod
 ```

@@ -1,6 +1,6 @@
 API-OSO_prod:
 	# Clone fresh repo into a temp directory
-	git clone https://github.com/louis-heraut/API-OSO.git tmp_API-OSO
+	git clone https://github.com/lou-heraut/API-OSO.git tmp_API-OSO
 
 	# Synchronize to /var/www/API-OSO while preserving important local data
 	sudo rsync -av --delete \

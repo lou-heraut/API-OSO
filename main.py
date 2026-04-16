@@ -49,7 +49,7 @@ app = FastAPI(
     contact={
         "name": "Louis Héraut (INRAE, UR RiverLy, Villeurbanne, France)",
         "email": "louis.heraut@inrae.fr",
-        "url": "https://github.com/louis-heraut/API-OSO"
+        "url": "https://github.com/lou-heraut/API-OSO"
     }
 )
 
